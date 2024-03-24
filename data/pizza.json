@@ -1,0 +1,52 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Aloha",
+      "description": "Ham, pepperoni and pineapple mixed with Thousand Island dressing",
+      "price": 9.99,
+      "image": "http://thepizzacompany.vn/images/thumbs/000/0003536_aloha_300.png",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "name": "Seafood",
+      "description": "Shrimp, crab, squid and clams with Marinara sauce",
+      "price": 10.99,
+      "image": "http://thepizzacompany.vn/images/thumbs/000/0002214_sf-deluxe_300.png",
+      "amount": 1
+    },
+    {
+      "id": 3,
+      "name": "Chesse",
+      "description": "Pizza with lots of cheese for you to enjoy.",
+      "price": 11.99,
+      "image": "http://thepizzacompany.vn/images/thumbs/000/0002226_double-cheese_300.png",
+      "amount": 1
+    },
+    {
+      "id": 4,
+      "name": "Meat Lovers",
+      "description": "For meat enthusiasts - topped with beef, sausage, ham, and bacon.",
+      "price": 12.99,
+      "image": "http://thepizzacompany.vn/images/thumbs/000/0002219_meat-deluxe_300.png",
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "name": "Hawaiian",
+      "description": "A tropical twist with ham, pineapple chunks, mozzarella cheese, and tomato sauce.",
+      "price": 11.99,
+      "image": "http://thepizzacompany.vn/images/thumbs/000/0002224_hawaii_300.png",
+      "amount": 1
+    },
+    {
+      "id": 6,
+      "name": "Vegetable",
+      "description": "Onions, bell peppers, mushrooms, pineapple, tomatoes",
+      "price": 11.99,
+      "image": "http://thepizzacompany.vn/images/thumbs/000/0002229_veg_300.png",
+      "amount": 1
+    }
+  ]
+}
